@@ -1,0 +1,16 @@
+{
+  "name": "Skoutr",
+  "version": "1.0.0",
+  "description": "Scouting app for FRC competitions",
+  "main": "main.html",
+  "author": "Evan Wiederspan",
+  "window": {
+    "toolbar": true,
+    "width": 800,
+    "height": 500
+  },
+  "license": "ISC",
+  "dependencies": {
+    "pretty-bytes": "^1.0.2"
+  }
+}
